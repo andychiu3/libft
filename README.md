@@ -4,7 +4,7 @@ Rebuild library in C tho I filed them and added some more functions for future p
 
 ![libft-demo](https://github.com/user-attachments/assets/3be51584-5e67-4e85-990a-102d27fb33c6)
 
-passed in strict mode.
+passed [francinette](https://github.com/xicodomingues/francinette) in strict mode - an open-source tester
 
 <br>
 
